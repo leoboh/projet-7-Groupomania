@@ -25,3 +25,7 @@ npm run dev
 
 J’ai fait le choix de travailler avec une base de données en ligne.
 La base de données étant en ligne, les utilisateurs peuvent donc accéder au site sans avoir besoin de se connecter à la base de données.
+
+# Le fichier .env
+
+Toutes les personnes peuvent modifier ce fichier afin d'y mettre leur propres parametres.
